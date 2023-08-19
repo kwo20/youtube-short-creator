@@ -5,12 +5,13 @@ Instructions:
 - First, run "pip install -r requirements.txt" to install all required dependencies for the program.
   
 - Then, get an API key for Pexels as well as set up a client secrets file through the Youtube API v3 (this will be a .json file).
-    Instructions for getting client secrets file:
-      Go to the Google Cloud Platform Console: Navigate to https://console.cloud.google.com/.
-      Create a new project:
-        Click on the project dropdown on the top right corner of the screen.
-        Click the New Project button at the top right of the modal that appears.
-        Enter a name for your project and select a billing account (if you have one), then click Create.
+
+      Instructions for getting client secrets file:
+        Go to the Google Cloud Platform Console: Navigate to https://console.cloud.google.com/.
+        Create a new project:
+          Click on the project dropdown on the top right corner of the screen.
+          Click the New Project button at the top right of the modal that appears.
+          Enter a name for your project and select a billing account (if you have one), then click Create.
   
       Enable the YouTube Data API v3:
         In the Dashboard, click on the Navigation menu (three horizontal lines on the top left corner).
